@@ -1,14 +1,14 @@
-# Domain Collaboration Specification
+# Day Trading Collaboration Specification
 
 This draft is intentionally neutral. Replace placeholders with explicit roles, responsibilities, approvals, and notification paths once the domain and operating model are defined.
 
 ## Roles & Responsibilities
 
-### Role: [Primary Role]
+### Role: Portfolio Manager
 
 **Responsibilities**:
-- [primary responsibility]
-- [secondary responsibility]
+- [portfolio objective and prioritization responsibility]
+- [allocation or planning responsibility]
 - [escalation or monitoring responsibility]
 
 **Authority**:
@@ -20,10 +20,10 @@ This draft is intentionally neutral. Replace placeholders with explicit roles, r
 - [what triggers escalation]
 - [who receives the escalation]
 
-### Role: [Secondary Role]
+### Role: Analyst
 
 **Responsibilities**:
-- [responsibility]
+- [research and monitoring responsibility]
 - [review or support role]
 
 **Authority**:
@@ -32,9 +32,48 @@ This draft is intentionally neutral. Replace placeholders with explicit roles, r
 **Escalation**:
 - [common escalation trigger]
 
+### Role: Executioner
+
+**Responsibilities**:
+- [execution and operational responsibility]
+- [exception handling responsibility]
+
+**Authority**:
+- [permission to act within defined windows]
+- [limits on order or timing actions]
+
+**Escalation**:
+- [when to pause or escalate]
+
+### Role: Compliance Officer
+
+**Responsibilities**:
+- [control and policy monitoring responsibility]
+- [review and documentation responsibility]
+
+**Authority**:
+- [approval or veto authority for compliance constraints]
+- [limits on operational exceptions]
+
+**Escalation**:
+- [trigger for regulatory or policy escalation]
+
+### Role: Accountant
+
+**Responsibilities**:
+- [recordkeeping and reconciliation responsibility]
+- [financial reporting or audit support]
+
+**Authority**:
+- [review or approval authority for accounting accuracy]
+- [limits on operational adjustments]
+
+**Escalation**:
+- [when discrepancy is detected]
+
 ## Information Visibility
 
-### [Role Name]
+### Portfolio Manager
 
 **Spec Sections Visible**:
 - Strategic: [full / summary / none]
@@ -47,6 +86,42 @@ This draft is intentionally neutral. Replace placeholders with explicit roles, r
 - Real-time: [what they may see]
 - Historical: [what they may review]
 - Reporting: [what they receive]
+
+### Analyst
+
+**Spec Sections Visible**:
+- Strategic: [full / summary / none]
+- Execution: [full / limited]
+- Observability: [full / summary]
+- Collaboration: [full / own role only]
+- Review: [full / summary]
+
+### Executioner
+
+**Spec Sections Visible**:
+- Strategic: [summary only]
+- Execution: [full]
+- Observability: [full]
+- Collaboration: [own role only]
+- Review: [summary]
+
+### Compliance Officer
+
+**Spec Sections Visible**:
+- Strategic: [summary]
+- Execution: [full]
+- Observability: [full]
+- Collaboration: [full]
+- Review: [summary]
+
+### Accountant
+
+**Spec Sections Visible**:
+- Strategic: [summary]
+- Execution: [summary]
+- Observability: [summary]
+- Collaboration: [summary]
+- Review: [full]
 
 ## Approval Workflows
 

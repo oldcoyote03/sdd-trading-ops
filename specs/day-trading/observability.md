@@ -1,4 +1,4 @@
-# Domain Observability Specification
+# Day Trading Observability Specification
 
 This draft is intentionally neutral. Replace the placeholder data sources, metrics, and alerts with explicit KB or human-defined domain facts before finalizing the operational model.
 
@@ -7,7 +7,7 @@ This draft is intentionally neutral. Replace the placeholder data sources, metri
 ### Source: [Primary Data Source]
 
 **Description**: [what this feed provides]
-- **Scope**: [domain area or system]
+- **Scope**: [market area or operational system]
 - **Type**: [event, metric, log, or state data]
 - **Update Frequency**: [timing and cadence]
 - **Retention**: [how long data is kept]
@@ -26,7 +26,7 @@ This draft is intentionally neutral. Replace the placeholder data sources, metri
 
 **Definition**: [how the metric is calculated or interpreted]
 - **Baseline**: [expected range, threshold, or comparison]
-- **Relevance**: [why it matters to the domain]
+- **Relevance**: [why it matters to the operation]
 
 ### Metric: [Secondary Metric]
 

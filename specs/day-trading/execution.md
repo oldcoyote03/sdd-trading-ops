@@ -1,10 +1,10 @@
-# Domain Execution Specification
+# Day Trading Execution Specification
 
 This draft is intentionally neutral and should be specialized with explicit domain facts or KB input before use in production workflows.
 
 ## Executable Actions
 
-### Action: [Primary Action]
+### Action: [Primary Trading Action]
 
 **Preconditions**:
 - [condition or trigger]
@@ -20,7 +20,7 @@ This draft is intentionally neutral and should be specialized with explicit doma
 - [resource or timing constraint]
 - [safety or authorization boundary]
 
-### Action: [Secondary Action]
+### Action: [Secondary Trading Action]
 
 **Preconditions**:
 - [condition]
