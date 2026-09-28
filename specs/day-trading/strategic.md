@@ -1,20 +1,20 @@
-# Domain Strategic Specification
+# Day Trading Strategic Specification
 
-This draft is intentionally neutral and is meant to be specialized using explicit human input or a grounded KB. Replace placeholders with domain-specific objectives, constraints, and decision frameworks before treating this as authoritative.
+This draft is intentionally neutral and is meant to be specialized using explicit human input or a grounded KB. Until the domain facts are confirmed, use placeholders rather than assumptions.
 
 ## Objectives & Success Criteria
 
-**Primary Objective**: [state the domain objective]
+**Primary Objective**: [state the day trading objective]
 
 **Success Metrics**:
 - [primary success metric]
 - [secondary success metric]
-- [constraint or operating threshold]
+- [risk or quality threshold]
 
 **Constraints**:
-- [domain constraint 1]
-- [domain constraint 2]
-- [domain constraint 3]
+- [market operating constraint]
+- [capital or risk constraint]
+- [policy or compliance constraint]
 
 ## Decision Frameworks
 
@@ -22,7 +22,7 @@ This draft is intentionally neutral and is meant to be specialized using explici
 
 1. **Principle 1**: [define the primary decision principle]
 2. **Principle 2**: [define the second guiding principle]
-3. **Principle 3**: [define a risk, quality, or trust-related principle]
+3. **Principle 3**: [define a risk, quality, or compliance principle]
 
 ### Decision Rules
 
@@ -38,7 +38,7 @@ This draft is intentionally neutral and is meant to be specialized using explici
 
 ## Operational Scope
 
-- **Domain**: [domain name or area of operation]
+- **Domain**: Day trading
 - **Scope**: [what is in scope and what is out of scope]
 - **Timescales**: [decision horizon and review cadence]
 
