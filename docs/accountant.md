@@ -1,7 +1,5 @@
 # Accountant Guide
 
-Use generic placeholders unless the human has explicitly defined the domain and role semantics. The goal of this template is to create a structurally useful draft without inventing domain-specific meanings.
-
 ## What is This Role?
 
 This role manages the accounting and financial recordkeeping aspects of the operation. It supports accurate reporting, reconciliations, and traceability for operational activity and associated outcomes.

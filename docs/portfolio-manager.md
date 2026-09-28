@@ -1,7 +1,5 @@
 # Portfolio Manager Guide
 
-Use generic placeholders unless the human has explicitly defined the domain and role semantics. The goal of this template is to create a structurally useful draft without inventing domain-specific meanings.
-
 ## What is This Role?
 
 This role oversees the portfolio objective, prioritization, and operating constraints for the day-trading system. It coordinates priorities and ensures that decisions remain aligned to organizational or strategic intent.

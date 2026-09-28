@@ -1,7 +1,5 @@
 # Analyst Guide
 
-Use generic placeholders unless the human has explicitly defined the domain and role semantics. The goal of this template is to create a structurally useful draft without inventing domain-specific meanings.
-
 ## What is This Role?
 
 This role reviews operating data, identifies performance trends, and produces the analysis needed to improve the system. It translates raw observations into actionable recommendations and supports the decision framework.

@@ -1,7 +1,5 @@
 # Executioner Guide
 
-Use generic placeholders unless the human has explicitly defined the domain and role semantics. The goal of this template is to create a structurally useful draft without inventing domain-specific meanings.
-
 ## What is This Role?
 
 This role performs approved actions in the operational system within defined time windows, boundaries, and controls. It acts as the direct execution point for the working plan and escalates deviations promptly.

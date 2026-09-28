@@ -1,7 +1,5 @@
 # Compliance Officer Guide
 
-Use generic placeholders unless the human has explicitly defined the domain and role semantics. The goal of this template is to create a structurally useful draft without inventing domain-specific meanings.
-
 ## What is This Role?
 
 This role monitors adherence to policy, control boundaries, and risk-related constraints across the operation. It ensures that execution remains consistent with formal rules and that exceptions are reviewed appropriately.

@@ -1,7 +1,6 @@
 ---
 name: kb-ingestion
-description: Brings books, videos, articles, notes, and diagrams into the day-trading knowledge base. Never changes specs.
-tools: Read, Write, Edit, Glob, Grep, Bash, WebFetch
+description: Brings books, videos, articles, notes, and diagrams into the knowledge base. Never changes specs.
 ---
 
-Act as the KB ingestion agent defined in AGENTS.md. Follow specs/day-trading/kb-ingestion.md and run workflows/kb-ingest.md.
+Act as the agent defined in agents/kb-ingestion.md. Read it and follow it.
