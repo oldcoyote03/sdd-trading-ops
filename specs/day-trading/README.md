@@ -16,6 +16,10 @@ This folder contains the initial operational specification scaffold for a day tr
 - [observability.md](observability.md) — data sources, metrics, alerts
 - [collaboration.md](collaboration.md) — roles, visibility, communication paths
 - [review.md](review.md) — review cadences, analysis, feedback loop
+- [kb-ingestion.md](kb-ingestion.md) — how sources enter the knowledge base
+- [spec-maintenance.md](spec-maintenance.md) — how spec changes are proposed and approved
+
+Each spec is followed by one agent; see [AGENTS.md](../../AGENTS.md).
 
 ## Current Working Assumption
 
